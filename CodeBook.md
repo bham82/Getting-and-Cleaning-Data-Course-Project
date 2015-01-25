@@ -1,9 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
-
-Data Dictionary - Summarized Tidy Dataset
+## Data Dictionary - Summarized Tidy Dataset
 
 Subject.Number
     
